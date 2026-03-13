@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/.pnpm/vitepress-theme-teek@1.5.0__8efbefe4b86c9a88ed7b950d37552d72/node_modules/vitepress-theme-teek/es/version.mjs"],
+  "sourcesContent": ["const version = \"1.5.0\";\n\nexport { version };\n"],
+  "mappings": ";AAAA,IAAM,UAAU;",
+  "names": []
+}
